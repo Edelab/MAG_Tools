@@ -5,6 +5,7 @@
 <img width="1536" height="1024" alt="586094414-da7d09d2-e564-49b7-9cd4-b4cf9cc173b8" src="https://github.com/user-attachments/assets/48fea10b-d1e9-47ee-9071-0a31e76a1c0b" />
 
 This pipeline was developed for the manuscritp: "Genome-resolved metagenomics of 171 leafhopper species reveals a modular microbiome architecture"
+
 MAG_Tools wraps a curated set of bioinformatics workflows into a single entry-point script (`MAG_Tools.sh`), so you can go from raw reads or assemblies to high-quality, dereplicated MAGs with a single command — no manual environment setup required.
 
 ---
